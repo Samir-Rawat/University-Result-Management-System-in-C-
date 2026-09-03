@@ -1,4 +1,0 @@
-S.No.  Student ID      Student Name              CGPA    
-----------------------------------------------------------
-1      25101           Deepak Kumar              9.32    
-2      25102           Raj Singh                 7.09    
