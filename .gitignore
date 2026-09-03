@@ -1,0 +1,20 @@
+# Build files
+build/
+*.o
+*.obj
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Generated files
+*.log
+*.png
+*.dat
+*.txt
