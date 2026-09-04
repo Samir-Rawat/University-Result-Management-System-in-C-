@@ -84,9 +84,7 @@ This project uses fundamental C programming concepts, including:
 * Pointers, Double pointers
 * Functions
 * Dynamic memory allocation
-* `malloc()` and `realloc()`
 * File handling
-* `fread()` and `fwrite()`
 * Binary search
 * Sorted insertion
 * String manipulation
